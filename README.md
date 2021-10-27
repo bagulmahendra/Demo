@@ -12,7 +12,7 @@ GKE
 
 GCE
 
-<img width="154" alt="GCP-1" src="https://user-images.githubusercontent.com/87603681/138677077-dffd7a22-2ac0-43df-9139-85768afe2b51.png">
+![image](https://user-images.githubusercontent.com/87603681/138999428-fc07877b-2698-4ffc-b905-48c16d06c2c2.png)
 
 
 
@@ -20,3 +20,6 @@ GCE
 ![gcloud_where-should-i-run-my-stuff-choosing-google-cloud-compute-option-01_1600-900-1024x576](https://user-images.githubusercontent.com/87603681/138677261-a9222c13-bc30-43de-99b9-43a9130b6584.jpg)
 
 
+Terraform 
+
+![terraform](https://user-images.githubusercontent.com/87603681/139000044-2f8cbf6a-3e3e-498d-8090-70455713e024.png)
